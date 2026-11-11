@@ -187,6 +187,3 @@ adb -s 192.168.0.118:5555 shell am start -n com.simplelauncher/.MainActivity
 - Add screensaver / clock mode
 - Add leanback banner support for better TV integration
 
-## License
-
-MIT License (same as parent repository)
